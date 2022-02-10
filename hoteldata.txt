@@ -1,0 +1,210 @@
+{
+    "term": "illinois",
+    "moresuggestions": 10,
+    "autoSuggestInstance": null,
+    "trackingID": "c0fe685714ee4f18a80ed3adaa78bf63",
+    "misspellingfallback": false,
+    "suggestions": [
+        {
+            "group": "CITY_GROUP",
+            "entities": [
+                {
+                    "geoId": "829",
+                    "destinationId": "1497539",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 41.88078,
+                    "longitude": -87.62813,
+                    "searchDetail": null,
+                    "caption": "Chicago, <span class='highlighted'>Illinois</span>, United States of America",
+                    "name": "Chicago"
+                },
+                {
+                    "geoId": "6350699",
+                    "destinationId": "1902007",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 41.88596984557484,
+                    "longitude": -87.62933540465225,
+                    "searchDetail": null,
+                    "caption": "Downtown Chicago, Chicago, <span class='highlighted'>Illinois</span>, United States of America",
+                    "name": "Downtown Chicago"
+                },
+                {
+                    "geoId": "8107",
+                    "destinationId": "1529368",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 42.0424770898667,
+                    "longitude": -88.062874664361,
+                    "searchDetail": null,
+                    "caption": "Schaumburg, <span class='highlighted'>Illinois</span>, United States of America",
+                    "name": "Schaumburg"
+                },
+                {
+                    "geoId": "553248635975749241",
+                    "destinationId": "12540957",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 41.86877911611174,
+                    "longitude": -87.67541691111909,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Illinois</span> Medical District, Chicago, Illinois, United States of America",
+                    "name": "Illinois Medical District"
+                },
+                {
+                    "geoId": "9009",
+                    "destinationId": "1507129",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 41.75720728002596,
+                    "longitude": -88.17320952759758,
+                    "searchDetail": null,
+                    "caption": "Naperville, <span class='highlighted'>Illinois</span>, United States of America",
+                    "name": "Naperville"
+                },
+                {
+                    "geoId": "3249",
+                    "destinationId": "1645068",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 39.79937,
+                    "longitude": -89.649406,
+                    "searchDetail": null,
+                    "caption": "Springfield, <span class='highlighted'>Illinois</span>, United States of America",
+                    "name": "Springfield"
+                },
+                {
+                    "geoId": "7581",
+                    "destinationId": "1509288",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 41.98816783956498,
+                    "longitude": -87.87141246697348,
+                    "searchDetail": null,
+                    "caption": "Rosemont, <span class='highlighted'>Illinois</span>, United States of America",
+                    "name": "Rosemont"
+                },
+                {
+                    "geoId": "800025",
+                    "destinationId": "1664788",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 41.89500477429785,
+                    "longitude": -87.62413993867679,
+                    "searchDetail": null,
+                    "caption": "Magnificent Mile, Chicago, <span class='highlighted'>Illinois</span>, United States of America",
+                    "name": "Magnificent Mile"
+                }
+            ]
+        },
+        {
+            "group": "HOTEL_GROUP",
+            "entities": [
+                {
+                    "geoId": "1871214",
+                    "destinationId": "325279",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 42.383799,
+                    "longitude": -87.942967,
+                    "searchDetail": null,
+                    "caption": "Great Wolf Lodge <span class='highlighted'>Illinois</span>, Gurnee, Illinois, United States of America",
+                    "name": "Great Wolf Lodge Illinois"
+                }
+            ]
+        },
+        {
+            "group": "LANDMARK_GROUP",
+            "entities": [
+                {
+                    "geoId": "6069201",
+                    "destinationId": "1635496",
+                    "landmarkCityDestinationId": "1497539",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 41.882105,
+                    "longitude": -87.624179,
+                    "searchDetail": null,
+                    "caption": "Millennium Park, Chicago, <span class='highlighted'>Illinois</span>, United States of America",
+                    "name": "Millennium Park"
+                },
+                {
+                    "geoId": "6156167",
+                    "destinationId": "1708604",
+                    "landmarkCityDestinationId": "1497539",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 41.89171156953815,
+                    "longitude": -87.62417311822739,
+                    "searchDetail": null,
+                    "caption": "Michigan Avenue, Chicago, <span class='highlighted'>Illinois</span>, United States of America",
+                    "name": "Michigan Avenue"
+                },
+                {
+                    "geoId": "6069213",
+                    "destinationId": "1633124",
+                    "landmarkCityDestinationId": "1474590",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 42.312096,
+                    "longitude": -87.84555,
+                    "searchDetail": null,
+                    "caption": "Naval Base Great Lakes, North Chicago, <span class='highlighted'>Illinois</span>, United States of America",
+                    "name": "Naval Base Great Lakes"
+                }
+            ]
+        },
+        {
+            "group": "TRANSPORT_GROUP",
+            "entities": [
+                {
+                    "geoId": "4803907",
+                    "destinationId": "1664799",
+                    "landmarkCityDestinationId": null,
+                    "type": "AIRPORT",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.036429,
+                    "longitude": -88.263871,
+                    "searchDetail": null,
+                    "caption": "Champaign, IL, United States of America (CMI-University Of <span class='highlighted'>Illinois</span> Urbana-Champaign Williard)",
+                    "name": "Champaign, IL (CMI-University Of Illinois Urbana-Champaign Williard)"
+                },
+                {
+                    "geoId": "4477519",
+                    "destinationId": "1634290",
+                    "landmarkCityDestinationId": null,
+                    "type": "AIRPORT",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 41.976928,
+                    "longitude": -87.904787,
+                    "searchDetail": null,
+                    "caption": "Chicago, IL, United States of America (ORD-O'Hare Intl.)",
+                    "name": "Chicago, IL (ORD-O'Hare Intl.)"
+                },
+                {
+                    "geoId": "5719117",
+                    "destinationId": "1521758",
+                    "landmarkCityDestinationId": null,
+                    "type": "AIRPORT",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 41.7884,
+                    "longitude": -87.74101,
+                    "searchDetail": null,
+                    "caption": "Chicago, IL, United States of America (MDW-Midway Intl.)",
+                    "name": "Chicago, IL (MDW-Midway Intl.)"
+                }
+            ]
+        }
+    ],
+    "geocodeFallback": false
+}
